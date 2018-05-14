@@ -1,4 +1,4 @@
 # hello-world
-Helo GitHubbers!
+Hello GitHubbers!
 
 I am Isle Wind, the wind of change!
